@@ -12,7 +12,8 @@ const formatDate = (date) =>
   }).format(new Date(date));
 
 function CityItem({ city }) {
-  const { currentCity } = useCities();
+  let { currentCity } = useCities();
+
   const { id, emoji, cityName, date, position } = city;
 
   return (
