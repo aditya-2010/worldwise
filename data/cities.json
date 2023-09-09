@@ -1,40 +1,48 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Kolhapur",
+      "emoji": "🇮🇳",
+      "notes": "Test",
+      "date": "2023-09-09T10:10:54.113Z",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": "16.66292347493685",
+        "lng": "74.25017928882404"
       },
-      "id": 73930385
+      "id": 98443198
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Mumbai",
+      "emoji": "🇮🇳",
+      "notes": "gbfg",
+      "date": "2023-09-09T10:14:21.724Z",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "19.067420171165924",
+        "lng": "72.8762892421987"
       },
-      "id": 17806751
+      "id": 98443199
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Bengaluru",
+      "emoji": "🇮🇳",
+      "notes": "dvbdsvvsd",
+      "date": "2023-09-09T10:15:25.708Z",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "12.956673815267136",
+        "lng": "77.59475774409607"
       },
-      "id": 98443197
+      "id": 98443200
+    },
+    {
+      "cityName": "Mumbai",
+      "emoji": "🇮🇳",
+      "notes": "fvfvfv",
+      "date": "2023-09-09T10:39:28.057Z",
+      "position": {
+        "lat": "18.977863723622995",
+        "lng": "73.12185120497381"
+      },
+      "id": 98443203
     }
   ]
 }
