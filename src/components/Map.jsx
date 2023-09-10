@@ -3,8 +3,8 @@ import { useNavigate } from "react-router-dom";
 import { useCities } from "../contexts/CitiesContext";
 import PropTypes from "prop-types";
 import styles from "./Map.module.css";
-import { useGeolocation } from "./hooks/useGeolocation";
-import { useUrlPosition } from "./hooks/useUrlPosition";
+import { useGeolocation } from "../hooks/useGeolocation";
+import { useUrlPosition } from "../hooks/useUrlPosition";
 import {
   MapContainer,
   Marker,
